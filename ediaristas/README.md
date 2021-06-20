@@ -25,3 +25,6 @@ Para saber mais sobre Next.js:
 Para saber mais sobre React.js:
 
 - [Documentação React.js] (https://pt-br.reactjs.org).
+
+
+![Captura de tela de 2021-06-20 20-29-41](https://user-images.githubusercontent.com/63027699/122691609-24dd0280-d207-11eb-82fd-27ae526463c7.png)
