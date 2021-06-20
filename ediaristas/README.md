@@ -1,4 +1,4 @@
-![Captura de tela de 2021-06-20 20-31-28](https://user-images.githubusercontent.com/63027699/122691696-b0569380-d207-11eb-9ccb-c78ae0ccaeaa.png)
+
 # Projeto e-diaristas
 
 - Projeto Front-End - TreinaWeb(https://www.treinaweb.com.br/)
