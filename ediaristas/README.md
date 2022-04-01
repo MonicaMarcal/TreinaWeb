@@ -1,7 +1,7 @@
 
-# Projeto e-diaristas
+# Projeto E-diaristas
 
-- Projeto Front-End - TreinaWeb(https://www.treinaweb.com.br/)
+- Projeto FrontEnd - TreinaWeb(https://www.treinaweb.com.br/)
 
 - Startup que faz uma busca de diaristas.
 - Projeto feito em reactjs - nextjs.
