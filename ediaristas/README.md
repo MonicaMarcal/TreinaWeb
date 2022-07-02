@@ -11,7 +11,7 @@
 
 1. Clonar o projeto: 
 ```bash
-git clone 
+git clone https://github.com/MonicaMarcal/TreinaWeb.git
 ```
 2. Instalar as dependências: 
 ```bash
@@ -19,7 +19,7 @@ npm install
 ```
 3. Rodar o servidor
 ```bash
-npm run dev
+npm run start
 ``` 
 Abra http://localhost:3000 com seu navegador para ver o resultado.
 
