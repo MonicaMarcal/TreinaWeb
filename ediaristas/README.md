@@ -10,12 +10,12 @@
 
 Primeiro, execute o servidor de desenvolvimento:
 
-`` `bash
+``bash
 npm run dev
 
-`` `
+``
 
-Abra [http: // localhost: 3000] (http: // localhost: 3000) com seu navegador para ver o resultado.
+Abra http://localhost:3000 com seu navegador para ver o resultado.
 
 ## Saber mais
 
