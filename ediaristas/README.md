@@ -6,15 +6,21 @@
 - Startup que faz uma busca de diaristas.
 - Projeto feito em reactjs - nextjs.
 
-## Começando
 
-Primeiro, execute o servidor de desenvolvimento:
+## Como rodar
 
-``bash
+1. Clonar o projeto: 
+```bash
+git clone 
+```
+2. Instalar as dependências: 
+```bash
+npm install
+```
+3. Rodar o servidor
+```bash
 npm run dev
-
-``
-
+``` 
 Abra http://localhost:3000 com seu navegador para ver o resultado.
 
 ## Saber mais
